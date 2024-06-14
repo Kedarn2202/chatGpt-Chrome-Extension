@@ -1,4 +1,26 @@
-# Getting Started with Create React App
+##CHATGPT CHROME EXTENSION USING REACT
+This guide walks you through creating a Chrome extension with React to use ChatGPT. Key steps include setting up the React project, configuring the manifest file, creating the background script, building the React app, and handling API communication with ChatGPT. By following these steps, you can create a functional Chrome extension to interact with ChatGPT directly from your browser.
+
+
+##PROJECT STRUCTURE 
+chatgptextension/
+├── public/
+│   ├── icons/
+│   │   ├── icon16.png
+│   │   ├── icon48.png
+│   │   └── icon128.png
+│   ├── background.js
+│   ├── index.html
+│   └── manifest.json
+├── src/
+│   ├── App.js
+│   ├── ChatGPT.js
+│   ├── index.js
+│   └── App.css
+├── .env
+├── .gitignore
+├── package.json
+└── README.md
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
