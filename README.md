@@ -1,1 +1,1 @@
-# chatGpt-Chrome-Exyension
+# chatGpt-Chrome-Extension
